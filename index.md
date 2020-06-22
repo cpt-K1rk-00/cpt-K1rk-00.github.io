@@ -4,3 +4,4 @@ Darth Vader ist ein dunkler Lord der Sith und der Schüler des Imperators, der a
 * böse 
 * machtsensitiv
 * bester Pilot der Galaxis
+> Möge die Macht mit dir sein.
